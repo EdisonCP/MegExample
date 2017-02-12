@@ -1,0 +1,7 @@
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\bin\Debug\MegExample.Engines.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\bin\Debug\MegExample.Engines.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\bin\Debug\MegExample.Ifx.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\bin\Debug\MegExample.Ifx.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\obj\Debug\MegExample.Engines.csprojResolveAssemblyReference.cache
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\obj\Debug\MegExample.Engines.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Engines\obj\Debug\MegExample.Engines.pdb

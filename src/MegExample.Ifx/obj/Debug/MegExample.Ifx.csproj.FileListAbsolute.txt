@@ -1,0 +1,5 @@
+D:\Workspaces\epiq\MegExample\src\MegExample.Ifx\bin\Debug\MegExample.Ifx.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Ifx\bin\Debug\MegExample.Ifx.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Ifx\obj\Debug\MegExample.Ifx.csprojResolveAssemblyReference.cache
+D:\Workspaces\epiq\MegExample\src\MegExample.Ifx\obj\Debug\MegExample.Ifx.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Ifx\obj\Debug\MegExample.Ifx.pdb

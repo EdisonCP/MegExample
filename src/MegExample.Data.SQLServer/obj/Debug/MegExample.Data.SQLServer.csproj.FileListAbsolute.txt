@@ -1,0 +1,7 @@
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\bin\Debug\MegExample.Data.SQLServer.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\bin\Debug\MegExample.Data.SQLServer.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\bin\Debug\MegExample.Ifx.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\bin\Debug\MegExample.Ifx.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\obj\Debug\MegExample.Data.SQLServer.csprojResolveAssemblyReference.cache
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\obj\Debug\MegExample.Data.SQLServer.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Data.SQLServer\obj\Debug\MegExample.Data.SQLServer.pdb

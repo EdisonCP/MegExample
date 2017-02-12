@@ -1,0 +1,13 @@
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Managers.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Managers.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Contracts.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Data.SQLServer.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Engines.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Ifx.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Contracts.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Data.SQLServer.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Engines.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\bin\Debug\MegExample.Ifx.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\obj\Debug\MegExample.Managers.csprojResolveAssemblyReference.cache
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\obj\Debug\MegExample.Managers.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Managers\obj\Debug\MegExample.Managers.pdb

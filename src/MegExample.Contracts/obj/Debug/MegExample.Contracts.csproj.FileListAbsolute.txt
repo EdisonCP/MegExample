@@ -1,0 +1,5 @@
+D:\Workspaces\epiq\MegExample\src\MegExample.Contracts\bin\Debug\MegExample.Contracts.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Contracts\bin\Debug\MegExample.Contracts.pdb
+D:\Workspaces\epiq\MegExample\src\MegExample.Contracts\obj\Debug\MegExample.Contracts.csprojResolveAssemblyReference.cache
+D:\Workspaces\epiq\MegExample\src\MegExample.Contracts\obj\Debug\MegExample.Contracts.dll
+D:\Workspaces\epiq\MegExample\src\MegExample.Contracts\obj\Debug\MegExample.Contracts.pdb

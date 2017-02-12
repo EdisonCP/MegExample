@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegExample.API", "MegExample.API\MegExample.API.csproj", "{0C337104-CF0F-45C6-A7A7-3B74420EE193}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Logic", "Business Logic", "{EE71C96D-AD3F-4E86-9599-E7368495FB1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Datga Access", "Datga Access", "{6401D174-1921-4BFB-979A-E4D79871635A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegExample.Managers", "MegExample.Managers\MegExample.Managers.csproj", "{10D1DE32-7144-4AAE-845C-2A5473C26053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegExample.Engines", "MegExample.Engines\MegExample.Engines.csproj", "{3D301DB4-7D2C-4AB0-8620-79F311DAE267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegExample.Data.SQLServer", "MegExample.Data.SQLServer\MegExample.Data.SQLServer.csproj", "{FEB4C3F7-D493-48A0-AE5B-E34C8CFD7569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegExample.Ifx", "MegExample.Ifx\MegExample.Ifx.csproj", "{C2212A5D-8BAB-4CD9-8BEE-B92AE95AD40B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{A0B269F6-67F9-4C4C-94C8-B8D13549BC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegExample.Contracts", "MegExample.Contracts\MegExample.Contracts.csproj", "{C58F6F60-5C5D-49C2-95BA-3C6EAA93B68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C337104-CF0F-45C6-A7A7-3B74420EE193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C337104-CF0F-45C6-A7A7-3B74420EE193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C337104-CF0F-45C6-A7A7-3B74420EE193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C337104-CF0F-45C6-A7A7-3B74420EE193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D1DE32-7144-4AAE-845C-2A5473C26053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D1DE32-7144-4AAE-845C-2A5473C26053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D1DE32-7144-4AAE-845C-2A5473C26053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D1DE32-7144-4AAE-845C-2A5473C26053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D301DB4-7D2C-4AB0-8620-79F311DAE267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D301DB4-7D2C-4AB0-8620-79F311DAE267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D301DB4-7D2C-4AB0-8620-79F311DAE267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D301DB4-7D2C-4AB0-8620-79F311DAE267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB4C3F7-D493-48A0-AE5B-E34C8CFD7569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB4C3F7-D493-48A0-AE5B-E34C8CFD7569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB4C3F7-D493-48A0-AE5B-E34C8CFD7569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB4C3F7-D493-48A0-AE5B-E34C8CFD7569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2212A5D-8BAB-4CD9-8BEE-B92AE95AD40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2212A5D-8BAB-4CD9-8BEE-B92AE95AD40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2212A5D-8BAB-4CD9-8BEE-B92AE95AD40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2212A5D-8BAB-4CD9-8BEE-B92AE95AD40B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58F6F60-5C5D-49C2-95BA-3C6EAA93B68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58F6F60-5C5D-49C2-95BA-3C6EAA93B68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58F6F60-5C5D-49C2-95BA-3C6EAA93B68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58F6F60-5C5D-49C2-95BA-3C6EAA93B68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C337104-CF0F-45C6-A7A7-3B74420EE193} = {A0B269F6-67F9-4C4C-94C8-B8D13549BC37}
+		{10D1DE32-7144-4AAE-845C-2A5473C26053} = {EE71C96D-AD3F-4E86-9599-E7368495FB1C}
+		{3D301DB4-7D2C-4AB0-8620-79F311DAE267} = {EE71C96D-AD3F-4E86-9599-E7368495FB1C}
+		{FEB4C3F7-D493-48A0-AE5B-E34C8CFD7569} = {6401D174-1921-4BFB-979A-E4D79871635A}
+	EndGlobalSection
+EndGlobal
